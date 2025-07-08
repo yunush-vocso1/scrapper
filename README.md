@@ -36,4 +36,4 @@ A dynamic real estate project listing app built with **Next.js** that scrapes pr
 1. **Clone the repo**
    ```bash
    git clone https://github.com/your-username/magicbricks-scraper.git
-   cd magicbricks-scraper
+   cd scraper
